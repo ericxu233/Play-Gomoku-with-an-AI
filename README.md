@@ -1,1 +1,1 @@
-# Play-Gomoku-with-an-AI
+# Play_Gomoku_with_AI
